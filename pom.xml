@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>sweetalert</artifactId>
-    <version>0.4.1-SNAPSHOT</version>
+    <version>0.4.1</version>
     <name>SweetAlert</name>
     <description>WebJar for SweetAlert</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/sweetalert</url>
         <connection>scm:git:https://github.com/webjars/sweetalert.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/sweetalert.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>sweetalert-0.4.1</tag>
     </scm>
     
     <build>
